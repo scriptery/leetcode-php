@@ -11,6 +11,8 @@ class Solution {
 
         Наприклад, якщо s = "abcde", то після одного зсуву це буде "bcdea".
 
+        https://leetcode.com/problems/rotate-string/
+
      * @param String $s
      * @param String $goal
      * @return Boolean
