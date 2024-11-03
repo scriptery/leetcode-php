@@ -19,6 +19,8 @@ class Solution {
 
         Якщо речення є закільцованним, поверніть значення true. В іншому випадку поверніть значення false.
 
+        https://leetcode.com/problems/circular-sentence/
+
      * @param String $sentence
      * @return Boolean
      */
